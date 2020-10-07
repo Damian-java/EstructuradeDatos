@@ -80,7 +80,10 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Libreria.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RunManager">
@@ -197,21 +200,33 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1601539530995">
+    <state x="462" y="109" key="FileChooserDialogImpl" timestamp="1602111684419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601539530995" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1601539530995">
+    <state x="462" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602111684419" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602113630997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601539530995" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1601539530995">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602113630997" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602113630996">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601539530995" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1601539530995">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602113630996" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602113630996">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601539530995" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602113630996" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602113630997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602113630997" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1602111718596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602111718596" />
+    <state x="65" y="73" key="new project wizard" timestamp="1602087205112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="73" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1602087205112" />
   </component>
 </project>
